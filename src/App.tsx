@@ -63,8 +63,6 @@ function App() {
     if (jsonData.length > 0) {
       const headerArray = jsonData[0];
 
-      console.log({ headerArray });
-
       const keyForShape = headerArray.findIndex(
         (key: string) => key === SPA_SHAPE
       );
