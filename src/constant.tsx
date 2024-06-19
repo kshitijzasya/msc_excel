@@ -367,3 +367,21 @@ export const SPA_SIZES = [
     ],
   },
 ];
+
+export const SAMPLE_HEADERS = [
+  "Date",
+  "Order#",
+  "State",
+  "Thickness",
+  "Density",
+  "PO Number",
+  "Channel",
+  "ZIP Code",
+  "FABRIC",
+  "Color",
+  "Spa Shape",
+  "Brand/Model Name",
+  "Dimension A",
+  "Dimension B",
+  "Dimension C (Radius/Cut Corner)",
+];
